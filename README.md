@@ -28,3 +28,5 @@ Testování a ladění:
 
 Důkladné testování hry na různých zařízeních a prohlížečích.
 Oprava chyb a ladění výkonu.
+
+Použité technologie: JavaScript, PhP, Visual Studio Code, HTMLS
